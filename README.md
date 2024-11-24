@@ -1,4 +1,4 @@
-DateMaster is a powerful C++ program for parsing, validating, and formatting dates. With multiple formatting options, it allows users to display dates in creative and customizable ways.
+Format Date is a powerful C++ program for parsing, validating, and formatting dates. With multiple formatting options, it allows users to display dates in creative and customizable ways.
 
 ![DateMaster Preview](29509458.jpg)
 
@@ -19,3 +19,9 @@ DateMaster is a powerful C++ program for parsing, validating, and formatting dat
    ```bash
    git clone https://github.com/your-username/DateMaster.git
    cd DateMaster
+---
+
+## 🖥️ Output Preview
+Here is a preview of the program's output after running it:
+
+![Program Output](Date.png)
