@@ -1,0 +1,5 @@
+﻿  Format Date.cpp
+C:\Users\amerb\Desktop\Format Date\Format Date\Format Date\Format Date.cpp(18,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\amerb\Desktop\Format Date\Format Date\Format Date\Format Date.cpp(53,15): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\amerb\Desktop\Format Date\Format Date\Format Date\Format Date.cpp(58,22): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Format Date.vcxproj -> C:\Users\amerb\Desktop\Format Date\Format Date\x64\Debug\Format Date.exe
