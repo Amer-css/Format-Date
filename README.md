@@ -15,8 +15,12 @@ Format Date is a powerful C++ program for parsing, validating, and formatting da
 ---
 
 ## 📂 How to Use
-1. Clone the repository:
-   ```bash#include <iostream>
+
+   ```
+Input:
+Enter Date dd/mm/yyyy: 12/03/2024
+
+```
 
 
 ## 🖥️ Output Preview
